@@ -118,4 +118,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 -   🛠️ **Developer-Friendly**: Clean and well-structured code for easy maintenance.
 
 
-## 🌟🌟 Design inspired by JavaScriptMastary. Thanks For your desingn
+## 🌟🌟 Design inspired by JavaScriptMastery. Thanks For your desingn
